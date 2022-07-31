@@ -1,4 +1,4 @@
-### Title: 
+# Title: 
 Battleship Situmulation Game
 
 ## Coding Language:
