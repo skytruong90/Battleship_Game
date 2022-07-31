@@ -7,7 +7,7 @@ I code this in C
 In this program, I will be mimicking a game of Battleship. My game board is a line of 10 slots. I  have to implement 3 methods. 
 
 ## Output Screenshot:
-<img src="Pic1.png" width="400">
-<img src="Pic2.png" width="400">
-<img src="Pic3.png" width="400">
-<img src="Pic4.png" width="400">
+<img src="Pic1.png" width="420">
+<img src="Pic2.png" width="420">
+<img src="Pic3.png" width="420">
+<img src="Pic4.png" width="420">
