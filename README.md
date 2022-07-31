@@ -1,5 +1,5 @@
-# Title: 
-## Battleship Situmulation Game
+# Title: Battleship Situmulation Game
+
 
 ## Coding Language:
 C Programming
