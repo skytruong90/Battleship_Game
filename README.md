@@ -1,4 +1,4 @@
-# Title: Battleship Situmulation Game
+# Title: Battleship Game
 
 ## Coding Language: 
 I coded this in C
@@ -7,6 +7,7 @@ I coded this in C
 In this program, I will be mimicking a game of Battleship. My game board is a line of 10 slots. I  have to implement 3 methods. 
 
 ## Here is a Live Demo:
+https://www.youtube.com/watch?v=qU3n3pF5_eM
 
 ## How to install:
 1. Download from the zip: `https://github.com/skytruong90/Battleship_Game.git`
